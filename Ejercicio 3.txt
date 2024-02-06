@@ -1,0 +1,69 @@
+Cocinero
+
+Enunciados verdaderos
+1. Prepara alimentos para comer.
+2. Trabaja en la cocina de un restaurante, hotel u otro lugar de comida.
+3. Utiliza ingredientes frescos y variados para crear platos deliciosos.
+4. Sigue recetas y técnicas de cocina para asegurar la calidad de los platillos.
+5. Maneja utensilios y equipos de cocina como cuchillos, sartenes y hornos.
+6. Es responsable de mantener la higiene y limpieza en la cocina.
+7. Puede especializarse en diferentes tipos de cocina, como italiana, asiática o tradicional.
+8. Colabora con otros miembros del equipo de cocina para coordinar la preparación de las comidas.
+9. A veces, crea sus propias recetas o ajusta las existentes para mejorar el sabor.
+10. Se esfuerza por ofrecer experiencias gastronómicas agradables a los comensales.
+
+Enunciados falsos
+1. Un cocinero utiliza ingredientes caducados para dar más sabor a los platillos.
+2. En la cocina, es común que un cocinero no lave sus manos antes de manipular los alimentos.
+3. Los cocineros siempre preparan sus platos sin seguir ninguna receta ni técnica.
+4. Un buen cocinero nunca prueba la comida mientras la está preparando.
+5. En la cocina, los cocineros no necesitan preocuparse por la limpieza, ya que todo se mezcla.
+6. Los cocineros no usan utensilios como cuchillos y sartenes, simplemente cocinan con las manos.
+7. Un cocinero no necesita conocer las preferencias alimenticias de los comensales.
+8. Es común que un cocinero ignore la temperatura interna de los alimentos al cocinar.
+9. Los cocineros pueden reutilizar aceite de cocina indefinidamente sin afectar la calidad de la comida.
+10. Un buen cocinero siempre improvisa y nunca sigue una receta preestablecida.
+
+
+Proposiciones logicas
+
+1. El cocinero siempre prueba la comida mientras la está preparando o sigue una receta preestablecida.
+   - Proposiciones usadas: Disyunción
+   - Valor resultante: Verdadero
+
+2. En la cocina, los cocineros usan utensilios como cuchillos y sartenes, y siempre lavan sus manos antes de manipular los alimentos.
+   - Proposiciones usadas: Conjunción
+   - Valor resultante: Verdadero
+
+3. Un buen cocinero no necesita preocuparse por la limpieza, ya que todo se mezcla y los ingredientes caducados dan más sabor a los platillos.
+   - Proposiciones usadas: Disyunción, negación
+   - Valor resultante: Falso
+
+4. Los cocineros pueden reutilizar aceite de cocina indefinidamente sin afectar la calidad de la comida, y siempre conocen las preferencias alimenticias de los comensales.
+   - Proposiciones usadas: Conjunción
+   - Valor resultante: Falso
+
+5. Un cocinero no siempre prueba la comida mientras la está preparando, y a veces crea sus propias recetas o ajusta las existentes para mejorar el sabor.
+   - Proposiciones usadas: Negación, disyunción
+   - Valor resultante: Verdadero
+
+6. En la cocina, los cocineros utilizan ingredientes frescos y variados para crear platos deliciosos, pero no siguen recetas ni técnicas de cocina.
+   - Proposiciones usadas: Conjunción, negación
+   - Valor resultante: Falso
+
+7. Un cocinero siempre sigue una receta preestablecida y a veces improvisa.
+   - Proposiciones usadas: Conjunción, disyunción
+   - Valor resultante: Verdadero
+
+8. Los cocineros no necesitan manejar utensilios como cuchillos y sartenes o preocuparse por la limpieza.
+   - Proposiciones usadas: Negación, disyunción
+   - Valor resultante: Falso
+
+9. En la cocina, los cocineros conocen las preferencias alimenticias de los comensales y siempre lavan sus manos antes de manipular los alimentos.
+   - Proposiciones usadas: Conjunción
+   - Valor resultante: Verdadero
+
+10. Un buen cocinero siempre prueba la comida mientras la está preparando, y nunca sigue una receta preestablecida.
+    - Proposiciones usadas: Conjunción, negación
+    - Valor resultante: Falso
+
